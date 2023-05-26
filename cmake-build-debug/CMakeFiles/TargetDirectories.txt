@@ -19,5 +19,17 @@
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pointer_question5.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pointer_question6.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pointer_question7.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_function1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_function2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_value_reference1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_prototype.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_recursion1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_recursion2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_array_function1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_array_function2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question3.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question4.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
