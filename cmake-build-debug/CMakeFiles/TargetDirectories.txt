@@ -31,5 +31,7 @@
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question2.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question3.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question4.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_typedef1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_typedef2.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

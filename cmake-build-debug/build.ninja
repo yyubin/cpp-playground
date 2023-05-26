@@ -1063,6 +1063,68 @@ build function_question4: CXX_EXECUTABLE_LINKER__function_question4_Debug CMakeF
   TARGET_FILE = function_question4
   TARGET_PDB = function_question4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target struct_typedef1
+
+
+#############################################
+# Order-only phony target for struct_typedef1
+
+build cmake_object_order_depends_target_struct_typedef1: phony || CMakeFiles/struct_typedef1.dir
+
+build CMakeFiles/struct_typedef1.dir/struct/typedef1.cpp.o: CXX_COMPILER__struct_typedef1_Debug /Users/yubin/CLionProjects/untitled/struct/typedef1.cpp || cmake_object_order_depends_target_struct_typedef1
+  DEP_FILE = CMakeFiles/struct_typedef1.dir/struct/typedef1.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/struct_typedef1.dir
+  OBJECT_FILE_DIR = CMakeFiles/struct_typedef1.dir/struct
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target struct_typedef1
+
+
+#############################################
+# Link the executable struct_typedef1
+
+build struct_typedef1: CXX_EXECUTABLE_LINKER__struct_typedef1_Debug CMakeFiles/struct_typedef1.dir/struct/typedef1.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/struct_typedef1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = struct_typedef1
+  TARGET_PDB = struct_typedef1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target struct_typedef2
+
+
+#############################################
+# Order-only phony target for struct_typedef2
+
+build cmake_object_order_depends_target_struct_typedef2: phony || CMakeFiles/struct_typedef2.dir
+
+build CMakeFiles/struct_typedef2.dir/struct/typedef2.cpp.o: CXX_COMPILER__struct_typedef2_Debug /Users/yubin/CLionProjects/untitled/struct/typedef2.cpp || cmake_object_order_depends_target_struct_typedef2
+  DEP_FILE = CMakeFiles/struct_typedef2.dir/struct/typedef2.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/struct_typedef2.dir
+  OBJECT_FILE_DIR = CMakeFiles/struct_typedef2.dir/struct
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target struct_typedef2
+
+
+#############################################
+# Link the executable struct_typedef2
+
+build struct_typedef2: CXX_EXECUTABLE_LINKER__struct_typedef2_Debug CMakeFiles/struct_typedef2.dir/struct/typedef2.cpp.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/struct_typedef2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = struct_typedef2
+  TARGET_PDB = struct_typedef2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1097,7 +1159,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/yubin/CLionProjects/untitled/cmake-build-debug
 
-build all: phony pointer_pointer1 pointer_pointer2 pointer_array_pointer1 pointer_array_pointer2 pointer_array_pointer3 pointer_array_pointer4 pointer_array_pointer5 pointer_array_pointer6 pointer_array_pointer7 pointer_array_pointer8 pointer_array_pointer9 pointer_pointer_array1 pointer_pointer_array2 pointer_pointer_array3 pointer_question1 pointer_question2 pointer_question3 pointer_question4 pointer_question5 pointer_question6 pointer_question7 function_function1 function_function2 function_value_reference1 function_prototype function_recursion1 function_recursion2 function_array_function1 function_array_function2 function_question1 function_question2 function_question3 function_question4
+build all: phony pointer_pointer1 pointer_pointer2 pointer_array_pointer1 pointer_array_pointer2 pointer_array_pointer3 pointer_array_pointer4 pointer_array_pointer5 pointer_array_pointer6 pointer_array_pointer7 pointer_array_pointer8 pointer_array_pointer9 pointer_pointer_array1 pointer_pointer_array2 pointer_pointer_array3 pointer_question1 pointer_question2 pointer_question3 pointer_question4 pointer_question5 pointer_question6 pointer_question7 function_function1 function_function2 function_value_reference1 function_prototype function_recursion1 function_recursion2 function_array_function1 function_array_function2 function_question1 function_question2 function_question3 function_question4 struct_typedef1 struct_typedef2
 
 # =============================================================================
 # Built-in targets
