@@ -33,5 +33,15 @@
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/function_question4.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_typedef1.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_typedef2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct_pointer1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct_pointer2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct_pointer3.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct_function1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_struct_function2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_question1.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/struct_question2.dir
+/Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/c_const1.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yubin/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
